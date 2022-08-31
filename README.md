@@ -1,8 +1,8 @@
 # Server Side Node.js
 
 ## Getting Started
-1. Make sure you have *Node.js* 16 or higher and *npm* 6 or higher installed
-2. Make sure you have *PostgreSQL* 14
+1. Make sure you have *Node.js* 16 or higher and *npm* 6 or higher and *PostgreSQL* 14 or higher installed
+2. Make sure you have installed TypeScript package globally
 3. Install the project dependencies by running `npm install` from the project's directory
 4. Run the project by running `npm run dev`
 5. Run seeds by running `npm run seed`
