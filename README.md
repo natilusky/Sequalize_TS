@@ -19,5 +19,3 @@ You should now have the development version running on your computer and accessi
 
 ## Screen shot of PgAdmin tables
 ![](docs/db_tables.JPG)
-
-## ![The End](https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif)
